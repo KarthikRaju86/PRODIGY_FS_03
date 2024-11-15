@@ -8,5 +8,5 @@ local_store/
 │   ├── css/
 │   │   └── styles.css
 │   └── images/
-│       └── (your product images here)
+│       └── product1.jpg, product2.jpg, product3.jpg
 ├── requirements.txt
