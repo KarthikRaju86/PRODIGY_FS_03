@@ -19,7 +19,7 @@ Clear Cart: Users can clear all items from the cart with a single click.
 Responsive Design: The website adjusts to various screen sizes, providing a seamless experience across devices.
 
 # Technologies Used
-#Backend:
+# Backend:
 
 Python: The backend logic is powered by Python, managing routes and business logic.
 
