@@ -1,0 +1,12 @@
+local_store/
+├── app.py
+├── templates/
+│   ├── index.html
+│   ├── product_detail.html
+│   └── cart.html
+├── static/
+│   ├── css/
+│   │   └── styles.css
+│   └── images/
+│       └── (your product images here)
+├── requirements.txt
